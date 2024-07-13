@@ -1,0 +1,9 @@
+=begin rakudoc
+=TITLE Demo a github workflow and a Raku container
+
+=head Overview
+
+Use the container and github workflow to automatically create a README.md from a 
+RakuDoc source
+
+=end rakudoc
